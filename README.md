@@ -1,6 +1,6 @@
-# Race Results App
+# Media Information System
 
-This web app provides v
+This project will provide a web-based view for displaying race results from a JSON file with a specified format.
 
 ## Features
 

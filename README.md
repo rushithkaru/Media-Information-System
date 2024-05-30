@@ -13,8 +13,10 @@ This project will provide a web-based view for displaying race results from a JS
 
 1. Clone the repository to your local machine:
 2. Navigate to the project directory: 
-3. If you have dotnet installed you can run: `dotnet run`
-4. The project should open on your browser
+3. Install dotnet: https://dotnet.microsoft.com/en-us/download
+4. Install node: https://nodejs.org/
+5. To start the application: `dotnet run`
+6. The project should open on your browser
 
 ## Technologies Used
 

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pClBUc3AS2Hd8lfcyYORgDwxDJ6H8SS6ACPkslmPIfA=",
+  "Source": "Marathon",
+  "BasePath": "_content/Marathon",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

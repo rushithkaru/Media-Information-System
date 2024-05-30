@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44493",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/rushithkarunaratne/Desktop/Marathon/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
